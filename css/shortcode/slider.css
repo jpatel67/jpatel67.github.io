@@ -26,7 +26,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 }
 .info-inner > span {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 1000;
 }
 .slider-info-text{}
 .slider-info-text h1 {
@@ -170,7 +170,7 @@ slider 7
 .slider-text-style-3 h1{}
 .slider-text-style-3 span{}
 .slider-text-style-3 .info-inner {
-  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  background: rgba(255, 255, 255, 0.4) none repeat scroll 0 0;
   box-sizing: border-box;
   display: inline-block;
   outline: 1px solid #fff;
